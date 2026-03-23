@@ -83,7 +83,7 @@ if [[ "${_docs}" == "true" ]]; then
 fi
 pkgver="0.0.0.0.0.0.0.0.0.0.0.0.0.1"
 _commit="b97947b2aef393c9a943292fdfae480387434303"
-pkgrel=3
+pkgrel=4
 _pkgdesc=(
   "Checks whether an OpenPGP key has its user"
   "set appropriately for an Ethereum Virtual"
